@@ -13,6 +13,12 @@ export default function Home() {
         <h1 className={styles.title}>
           Donaldo.dev
         </h1>
+        <p>Por lo ponrto no hay nada que mostrar</p>
+        
+        <div className={ styles.grid }>
+          <a className={ styles.card } href="https://github.com/xWesko" target="_blank"> Github  </a>
+          <a className={ styles.link } href="mailto:luisestrada.ti@gmail.com" target="_blank"> Email  </a>
+        </div>
 
         <p className={styles.description}>
           Get started by editing{' '}
