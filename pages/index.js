@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Donaldo.dev
         </h1>
-        <p>Por lo ponrto no hay nada que mostrar</p>
+        <p>Por lo pronto no hay nada que mostrar</p>
         
         <div className={ styles.grid }>
           <a className={ styles.card } href="https://github.com/xWesko" target="_blank"> Github  </a>
